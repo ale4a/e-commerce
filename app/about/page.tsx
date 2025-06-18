@@ -12,7 +12,7 @@ export default function AboutPage() {
             About ElectroShop
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We're passionate about bringing you the latest and greatest in
+            We are passionate about bringing you the latest and greatest in
             electronics and technology. Our commitment to quality, customer
             service, and innovation drives everything we do.
           </p>
@@ -35,7 +35,7 @@ export default function AboutPage() {
               quality and customer service.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              Today, we're proud to serve thousands of customers globally,
+              Today, we are proud to serve thousands of customers globally,
               helping them discover and enjoy the latest innovations in
               electronics, accessories, and smart home solutions.
             </p>
@@ -102,7 +102,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Passion</h3>
                 <p className="text-gray-600">
-                  We're passionate about technology and love sharing that
+                  We are passionate about technology and love sharing that
                   excitement with our customers.
                 </p>
               </CardContent>
